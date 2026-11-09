@@ -12,31 +12,31 @@ This repository contains my progress through a comprehensive web development cou
 - **Status**: ✅ Completed
 - **Topics**: HTML fundamentals, development environment setup, HTML anatomy, semantic elements, content models
 - **Assignment**: Theoretical foundation module
-- **Live Demo**: [Module 1 - Introduction to HTML](https://viacheslavdanilov.github.io/web-dev-course/module-1/)
+- **Live Demo**: [Module 1 - Introduction to HTML](https://viacheslavdanilov.github.io/jhu-web-dev/module-1/)
 
 ### Module 2: CSS & Responsive Design
 - **Status**: ✅ Completed
 - **Topics**: CSS fundamentals, responsive layouts, media queries, flexbox/float layouts
 - **Assignment**: Responsive restaurant menu with mobile, tablet, and desktop views
-- **Live Demo**: [Module 2 - Restaurant Menu](https://viacheslavdanilov.github.io/web-dev-course/module-2/)
+- **Live Demo**: [Module 2 - Restaurant Menu](https://viacheslavdanilov.github.io/jhu-web-dev/module-2/)
 
 ### Module 3: Bootstrap & Mobile-First Design
 - **Status**: ✅ Completed
 - **Topics**: Bootstrap framework, responsive navigation, mobile-first approach, navbar components
 - **Assignment**: Food company website with responsive Bootstrap navbar and menu sections
-- **Live Demo**: [Module 3 - Food, LLC](https://viacheslavdanilov.github.io/web-dev-course/module-3/)
+- **Live Demo**: [Module 3 - Food, LLC](https://viacheslavdanilov.github.io/jhu-web-dev/module-3/)
 
 ### Module 4: JavaScript Fundamentals & Module Patterns
 - **Status**: ✅ Completed
 - **Topics**: JavaScript basics, IIFE patterns, module organization, name processing logic
 - **Assignment**: JavaScript Name Greeter with modular architecture and dynamic console output
-- **Live Demo**: [Module 4 - JavaScript Name Greeter](https://viacheslavdanilov.github.io/web-dev-course/module-4/)
+- **Live Demo**: [Module 4 - JavaScript Name Greeter](https://viacheslavdanilov.github.io/jhu-web-dev/module-4/)
 
 ### Module 5: Advanced JavaScript & APIs
 - **Status**: ✅ Completed
 - **Topics**: AJAX, JSON, REST APIs, asynchronous programming, dynamic content loading
 - **Assignment**: Restaurant web app with random category specials using Firebase API integration
-- **Live Demo**: [Module 5 - Restaurant Web App](https://viacheslavdanilov.github.io/web-dev-course/module-5/)
+- **Live Demo**: [Module 5 - Restaurant Web App](https://viacheslavdanilov.github.io/jhu-web-dev/module-5/)
 
 ## 🛠 Technologies Used
 
@@ -51,12 +51,12 @@ This repository contains my progress through a comprehensive web development cou
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ViacheslavDanilov/web-dev-course.git
+   git clone https://github.com/ViacheslavDanilov/jhu-web-dev.git
    ```
 
 2. Navigate to any module directory:
    ```bash
-   cd web-dev-course/module-3
+   cd jhu-web-dev/module-3
    ```
 
 3. Open `index.html` in your browser or use a local server:
